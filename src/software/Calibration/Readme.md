@@ -48,3 +48,22 @@ R:
 T:
 0.825875 -0.45181 0.376879
 ```
+
+If you use this software for research purposes, please cite:
+
+```{p}
+@article{KENNEDY2019288,
+title = "A Perception Pipeline for Robotic Harvesting of Green Asparagus",
+journal = "IFAC-PapersOnLine",
+volume = "52",
+number = "30",
+pages = "288 - 293",
+year = "2019",
+note = "6th IFAC Conference on Sensing, Control and Automation Technologies for Agriculture AGRICONTROL 2019",
+issn = "2405-8963",
+doi = "https://doi.org/10.1016/j.ifacol.2019.12.536",
+url = "http://www.sciencedirect.com/science/article/pii/S2405896319324553",
+author = "Gerard Kennedy and Viorela Ila and Robert Mahony",
+keywords = "robotics, vision, automation, harvesting, agriculture",
+abstract = "The global population is expected to pass 9 billion by 2050 requiring ongoing improvements in food production methods. Robotic harvesting offers part of the solution to this challenge and has spurred research in the use of agricultural robots (AgBots) for harvesting horticultural crops over the past several decades. While there has been significant progress in automation of harvest of many crops, robotic systems for crops that require selective harvesting remain far from mature. This paper presents the first steps toward a perception pipeline for a selective green asparagus harvesting robot. We show that a novel single-view representation of information from a multi-camera system can be combined with simple temporal filtering to reliably localise asparagus spears in real-time in lab experiments and difficult outdoor conditions."
+}```
